@@ -30,6 +30,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Solution URL: (https://github.com/kalosFestus/profile-card-component-main)
 - Live Site URL: (https://kalosfestus.github.io/profile-card-component-main/)
 
+### Built with 
+
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
